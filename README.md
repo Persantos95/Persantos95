@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Persantos95
-- 👀 I’m interested in ofonsive security.
+- 👀 I’m interested in Offensive Security.
 - 🌱 I’m currently learning Web Hacking.
 - 💞️ I’m looking to collaborate on anything relating.
 - 📫 How to reach me ...
